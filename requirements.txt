@@ -1,0 +1,10 @@
+cython
+scipy
+shapely
+timm
+h5py
+submitit
+scikit-image
+setuptools==59.4.0
+transformers==4.44
+spacy
